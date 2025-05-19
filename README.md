@@ -1,5 +1,3 @@
-# cp_notes
-
 # 🧠 cp-notes
 
 > Repositório pessoal com anotações e soluções de problemas focados em **programação competitiva**, **programação dinâmica** e **tópicos avançados em algoritmos**.
