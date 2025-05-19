@@ -1,0 +1,5 @@
+scanf e printf são mais performáticos que cin/cout
+
+Então se usa mecanismos no c++ para deixar as funções de entrada e saida do C++
+na mesma velocidade que as funções do C.
+
